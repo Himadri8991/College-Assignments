@@ -1,11 +1,3 @@
-/*
-Priyanka Banerjee- 2312200001271
-Sarmistha Ghosh- 2312200001148
-Simran Ghosh- 2312200001264
-Ankita Bera- 2312200001322
-Sriza Roy- 2312200001333
-*/
-
 #include <iostream>
 #include <vector>
 #include <string>
